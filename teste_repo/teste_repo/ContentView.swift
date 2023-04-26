@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe.americas")
                 .imageScale(.large)
                 .foregroundColor(.green)
-            Text("Américas")
+            Text("América do sul")
                 .font(.largeTitle)
                 .foregroundColor(.red)
         }
